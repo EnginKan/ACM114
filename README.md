@@ -6,4 +6,5 @@ In this repository you can find Jupyter noteebooks created during the lecture.
 
 - **Week 2**: Primative Data Types and Use of **print()** function
 - **Week 3**: Control Structures and Conditionals in Python
+- **Week 4**: Lists and Tuples
 - **Week 5**: Dictionaries and Sets
