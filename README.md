@@ -8,3 +8,5 @@ In this repository you can find Jupyter noteebooks created during the lecture.
 - **Week 3**: Control Structures and Conditionals in Python
 - **Week 4**: Lists and Tuples
 - **Week 5**: Dictionaries and Sets
+- **Week 6**: Functions
+- **Week 7**: More on Functions and Strings
