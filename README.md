@@ -11,3 +11,6 @@ In this repository you can find Jupyter noteebooks created during the lecture.
 - **Week 6**: Functions
 - **Week 7**: More on Functions and Strings
 - **Week 8**: File I/O and Exception Handling
+- **Week 9**: OOP Programming: Classes and Objects
+- **Week 10**: Inheritance and Polymorphism
+
